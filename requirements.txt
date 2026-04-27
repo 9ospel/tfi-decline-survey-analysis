@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter
+openpyxl
+sqlalchemy
+ipykernel
+
+
+
