@@ -1,4 +1,4 @@
-# TFI Fellowship Decline Analysis — Why High-Potential Candidates Say No
+# TFI Fellowship Decline Analysis: Why High-Potential Candidates Say No
 An end-to-end data analysis project examining why 163 high-potential candidates 
 declined the Teach For India fellowship offer, built with Python, SQL, and 
 Power BI to surface actionable insights for recruitment leadership.
